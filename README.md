@@ -6,7 +6,8 @@ Each file is based on an **original source** (linked below), with my modificatio
 ---
 
 ## Contents
-- `parametric_end_cap_with_label.scad` → adapted cover pass-through model 
+- `parametric_end_cap_with_label.scad` → adapted cover pass-through model
+![](https://github.com/rainnic/parametric-3d-models/blob/main/images/parametric_end_cap_with_label.jpg).
 - … coming soon
 
 ---
