@@ -11,10 +11,10 @@
 // - Adjusted dimensions and tolerances
 //
 
-width = 61.6;         // Inner width of the plug
-depth = 50.0;         // Inner depth of the plug
+width = 91.6;         // Inner width of the plug
+depth = 60.0;         // Inner depth of the plug
 height = 2.4;         // Thickness of the plug cover
-label = 7;            // Number/text to display on top of the plug
+label = "label";            // Number/text to display on top of the plug
 
 plugHeight = 14;      // Plug height
 plugWall = 2;         // Wall thickness
