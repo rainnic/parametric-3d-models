@@ -22,9 +22,9 @@ All credits go to the respective creator:
 
 ## 🔗 Links
 
-- GitHub: [github.com/rainnic/PavOra](https://github.com/rainnic/parametric-3d-models)
-- Website (English): [nicolarainiero.altervista.org/en/category/pavora-en/](https://nicolarainiero.altervista.org/en/category/3d-printing/)
-- Website (Italian): [nicolarainiero.altervista.org/category/pavora-it/](https://nicolarainiero.altervista.org/category/stampa-3d/)
+- GitHub: [github.com/rainnic/parametric-3d-models](https://github.com/rainnic/parametric-3d-models)
+- Website (English): [nicolarainiero.altervista.org/en/category/category/3d-printing](https://nicolarainiero.altervista.org/en/category/3d-printing/)
+- Website (Italian): [nicolarainiero.altervista.org/category/category/stampa-3d](https://nicolarainiero.altervista.org/category/stampa-3d/)
 
 ---
 
